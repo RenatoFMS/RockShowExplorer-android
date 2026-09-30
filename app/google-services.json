@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967314377339",
+    "project_id": "rockshowexplorer",
+    "storage_bucket": "rockshowexplorer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967314377339:android:9f67fbd42eb12dc448b0de",
+        "android_client_info": {
+          "package_name": "com.example.rockshowexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWFW-sdgT6hDLN7GolPqRzTv4K-OLcltc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
